@@ -60,7 +60,7 @@ public class JavaApplication17 {
         }
         System.out.println("So luong tu rieng biet duoc tao thanh la: "+count);
     }
-    @SuppressWarnings("empty-statement")
+    
     static void bai2(Scanner scan){
         System.out.println("Nhap vao dien tich");
         
